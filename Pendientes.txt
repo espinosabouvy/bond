@@ -1,0 +1,11 @@
+ERRORES BOND
+estilo-version que no coinciden con concatenar ESTILO & NUMERO(version)
+
+MATERIALES - TALLAS
+REGLA:  Se pueden asignar tallas por talla, pero no materiales diferentes por talla??
+	(las cajas por ejemplo, la talla es el nombre de la caja (las ordenes de compra, sale un renglón y en las columnas, el nombre
+	de la caja)
+	Impresiones - si tienen talla, tallas en columnas - si no tienen tallas, cada uno en un reglón (no se puede asiganr por talla de calzado)
+
+	DIFERENTES MATERIALES POR TALLA REQUIEREN TALLA Y UNA MISMA CLAVE DE MATERIAL
+	MISMO MATERIAL EN TODAS LAS TALLAS EL NOMBRE DEL MATERIAL PUEDE INCLUIR O NO LA TALLA PARA FACILITAR LA ASIGNACIÓN
